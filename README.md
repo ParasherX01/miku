@@ -8,6 +8,10 @@
 
 - #### [Node.js и npm](https://nodejs.org/ru/download/)
 
+## Установка зависимостей
+
+        npm i
+
 ## Использование
 
 - #### Запуск через npm:
